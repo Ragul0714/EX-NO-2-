@@ -34,7 +34,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+## Program:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -159,6 +159,9 @@ int main() {
 
 
 
-Output:
-<img width="1087" height="527" alt="image" src="https://github.com/user-attachments/assets/b3de1536-abca-43ad-aa6b-a889ae207f0a" />
+## Output:
+<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/677bd7c2-379d-463d-a81a-cfdf2efcc90d" />
+
+## Result
+Thus the program is executed successfully..
 
